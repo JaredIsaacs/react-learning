@@ -1,0 +1,25 @@
+.card{
+    display: inline-flex;
+    text-align: center;
+    max-height: 185px;
+    width: 15%;
+    margin: 10px;
+}
+
+.card .card-title{
+    text-align: center;
+    margin-bottom: 0;
+    font-size: 15px;
+}
+
+.card .card-subtitle{
+    display: inline-flex;
+    margin: 5px;
+    margin-bottom: 0px;
+    font-size: 15px;
+}
+
+.card .old-price{
+    color: red;
+    text-decoration: line-through;
+}
