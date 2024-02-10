@@ -3,7 +3,11 @@
     text-align: center;
     max-height: 185px;
     width: 15%;
-    margin: 10px;
+    margin: 12px;
+}
+
+.card .card-body{
+    padding: 0px;
 }
 
 .card .card-title{

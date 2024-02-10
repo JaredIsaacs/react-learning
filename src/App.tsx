@@ -27,7 +27,7 @@ function App() {
       });
   }, []);
 
-  /*
+  
   if (data.length > 0) {
     console.log(data);
     return (
@@ -51,7 +51,7 @@ function App() {
       </>
     );
   }
-  */
+  
 
   return <div>Something went wrong!</div>;
 }
